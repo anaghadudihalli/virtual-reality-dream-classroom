@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: fd679e54d2b43c446818cf67564aa955
+timeCreated: 1493852209
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A-WALL_curve_thickness96_0___002
+    100002: //RootNode
+    100004: DisplayMount
+    100006: DisplayMount_001
+    100008: DisplayMount_002
+    100010: DisplayMount_003
+    100012: Planar-ThinBezelLCD-42in
+    100014: Planar-ThinBezelLCD-42in_001
+    100016: Planar-ThinBezelLCD-42in_002
+    100018: Planar-ThinBezelLCD-42in_003
+    100020: Planar-ThinBezelLCD-42in_004
+    100022: Planar-ThinBezelLCD-42in_005
+    100024: Planar-ThinBezelLCD-42in_006
+    100026: Planar-ThinBezelLCD-42in_007
+    100028: Planar-ThinBezelLCD-42in_008
+    100030: Planar-ThinBezelLCD-42in_009
+    100032: Planar-ThinBezelLCD-42in_010
+    100034: Planar-ThinBezelLCD-42in_011
+    100036: Planar-ThinBezelLCD-42in_012
+    100038: Planar-ThinBezelLCD-42in_013
+    100040: Wood_Support
+    100042: Wood_Support_001
+    100044: Wood_Support_002
+    100046: KinectV2
+    100048: TopBoard
+    100050: TopBoard_001
+    100052: Planar-ThinBezelLCD-42in_014
+    100054: Planar-ThinBezelLCD-42in_015
+    400000: A-WALL_curve_thickness96_0___002
+    400002: //RootNode
+    400004: DisplayMount
+    400006: DisplayMount_001
+    400008: DisplayMount_002
+    400010: DisplayMount_003
+    400012: Planar-ThinBezelLCD-42in
+    400014: Planar-ThinBezelLCD-42in_001
+    400016: Planar-ThinBezelLCD-42in_002
+    400018: Planar-ThinBezelLCD-42in_003
+    400020: Planar-ThinBezelLCD-42in_004
+    400022: Planar-ThinBezelLCD-42in_005
+    400024: Planar-ThinBezelLCD-42in_006
+    400026: Planar-ThinBezelLCD-42in_007
+    400028: Planar-ThinBezelLCD-42in_008
+    400030: Planar-ThinBezelLCD-42in_009
+    400032: Planar-ThinBezelLCD-42in_010
+    400034: Planar-ThinBezelLCD-42in_011
+    400036: Planar-ThinBezelLCD-42in_012
+    400038: Planar-ThinBezelLCD-42in_013
+    400040: Wood_Support
+    400042: Wood_Support_001
+    400044: Wood_Support_002
+    400046: KinectV2
+    400048: TopBoard
+    400050: TopBoard_001
+    400052: Planar-ThinBezelLCD-42in_014
+    400054: Planar-ThinBezelLCD-42in_015
+    2300000: A-WALL_curve_thickness96_0___002
+    2300002: DisplayMount
+    2300004: DisplayMount_001
+    2300006: DisplayMount_002
+    2300008: DisplayMount_003
+    2300010: Planar-ThinBezelLCD-42in
+    2300012: Planar-ThinBezelLCD-42in_001
+    2300014: Planar-ThinBezelLCD-42in_002
+    2300016: Planar-ThinBezelLCD-42in_003
+    2300018: Planar-ThinBezelLCD-42in_004
+    2300020: Planar-ThinBezelLCD-42in_005
+    2300022: Planar-ThinBezelLCD-42in_006
+    2300024: Planar-ThinBezelLCD-42in_007
+    2300026: Planar-ThinBezelLCD-42in_008
+    2300028: Planar-ThinBezelLCD-42in_009
+    2300030: Planar-ThinBezelLCD-42in_010
+    2300032: Planar-ThinBezelLCD-42in_011
+    2300034: Planar-ThinBezelLCD-42in_012
+    2300036: Planar-ThinBezelLCD-42in_013
+    2300038: Wood_Support
+    2300040: Wood_Support_001
+    2300042: Wood_Support_002
+    2300044: KinectV2
+    2300046: TopBoard
+    2300048: TopBoard_001
+    2300050: Planar-ThinBezelLCD-42in_014
+    2300052: Planar-ThinBezelLCD-42in_015
+    3300000: A-WALL_curve_thickness96_0___002
+    3300002: DisplayMount
+    3300004: DisplayMount_001
+    3300006: DisplayMount_002
+    3300008: DisplayMount_003
+    3300010: Planar-ThinBezelLCD-42in
+    3300012: Planar-ThinBezelLCD-42in_001
+    3300014: Planar-ThinBezelLCD-42in_002
+    3300016: Planar-ThinBezelLCD-42in_003
+    3300018: Planar-ThinBezelLCD-42in_004
+    3300020: Planar-ThinBezelLCD-42in_005
+    3300022: Planar-ThinBezelLCD-42in_006
+    3300024: Planar-ThinBezelLCD-42in_007
+    3300026: Planar-ThinBezelLCD-42in_008
+    3300028: Planar-ThinBezelLCD-42in_009
+    3300030: Planar-ThinBezelLCD-42in_010
+    3300032: Planar-ThinBezelLCD-42in_011
+    3300034: Planar-ThinBezelLCD-42in_012
+    3300036: Planar-ThinBezelLCD-42in_013
+    3300038: Wood_Support
+    3300040: Wood_Support_001
+    3300042: Wood_Support_002
+    3300044: KinectV2
+    3300046: TopBoard
+    3300048: TopBoard_001
+    3300050: Planar-ThinBezelLCD-42in_014
+    3300052: Planar-ThinBezelLCD-42in_015
+    4300000: Wood_Support_002
+    4300002: Wood_Support
+    4300004: Wood_Support_001
+    4300006: DisplayMount_003
+    4300008: DisplayMount_002
+    4300010: DisplayMount_001
+    4300012: Planar-ThinBezelLCD-42in_013
+    4300014: Planar-ThinBezelLCD-42in_012
+    4300016: Planar-ThinBezelLCD-42in_011
+    4300018: Planar-ThinBezelLCD-42in_010
+    4300020: Planar-ThinBezelLCD-42in_009
+    4300022: Planar-ThinBezelLCD-42in_008
+    4300024: Planar-ThinBezelLCD-42in_007
+    4300026: Planar-ThinBezelLCD-42in_006
+    4300028: Planar-ThinBezelLCD-42in_005
+    4300030: Planar-ThinBezelLCD-42in_004
+    4300032: Planar-ThinBezelLCD-42in_003
+    4300034: Planar-ThinBezelLCD-42in_002
+    4300036: Planar-ThinBezelLCD-42in_001
+    4300038: Planar-ThinBezelLCD-42in
+    4300040: DisplayMount
+    4300042: A-WALL_curve_thickness96_0___002
+    4300044: KinectV2
+    4300046: TopBoard_001
+    4300048: TopBoard
+    4300050: Planar-ThinBezelLCD-42in_015
+    4300052: Planar-ThinBezelLCD-42in_014
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
