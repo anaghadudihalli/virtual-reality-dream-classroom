@@ -19376,7 +19376,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraRig: {fileID: 1450671977}
-  humanoid: {fileID: 1529009551}
+  humanoid: {fileID: 7290302390360742606}
   animator: {fileID: 293500967}
   talkingClip: {fileID: 1529009553}
 --- !u!82 &1529009553
@@ -19839,7 +19839,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 18e263b66f7ef49c8bfbe999f2281a9c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.48
+      value: 0.043
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18e263b66f7ef49c8bfbe999f2281a9c,
         type: 3}
@@ -19849,7 +19849,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 18e263b66f7ef49c8bfbe999f2281a9c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.5002995
+      value: -3.75
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18e263b66f7ef49c8bfbe999f2281a9c,
         type: 3}

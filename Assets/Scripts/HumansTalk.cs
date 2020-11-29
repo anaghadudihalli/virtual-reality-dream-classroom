@@ -24,9 +24,10 @@ public class HumansTalk : MonoBehaviour
     void checkIfNear()
     {
         // Debug.Log("In check if near");
-        Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition));
+        Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition) + "Humans talk");
+        // Debug.Log("Humans talk");
         isCameraRigClose = false;
-        if (Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition) <= 2) {
+        if (Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition) <= 3) {
             // Debug.Log("Distance is less");
             isCameraRigClose = true;
         }

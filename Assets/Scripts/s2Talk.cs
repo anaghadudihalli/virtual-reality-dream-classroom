@@ -22,9 +22,10 @@ public class s2Talk : MonoBehaviour
     void checkIfNear()
     {
         // Debug.Log("In check if near");
-        Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition));
+        Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition)+"s2");
+        // Debug.Log("s2");
         isCameraRigClose = false;
-        if (Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition) <= 2) {
+        if (Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition) <= 3.5) {
             // Debug.Log("Distance is less");
             isCameraRigClose = true;
         }

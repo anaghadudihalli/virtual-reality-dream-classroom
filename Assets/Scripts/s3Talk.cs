@@ -22,7 +22,8 @@ public class s3Talk : MonoBehaviour
     void checkIfNear()
     {
         // Debug.Log("In check if near");
-        Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition));
+        Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition)+"s3");
+        // Debug.Log("s3");
         isCameraRigClose = false;
         if (Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition) <= 2) {
             // Debug.Log("Distance is less");
