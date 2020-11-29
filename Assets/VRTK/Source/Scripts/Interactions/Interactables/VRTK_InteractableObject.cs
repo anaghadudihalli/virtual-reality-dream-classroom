@@ -348,6 +348,8 @@ namespace VRTK
             {
                 InteractableObjectTouched(this, e);
             }
+
+            Debug.Log("Checking");
         }
 
         public virtual void OnInteractableObjectUntouched(InteractableObjectEventArgs e)

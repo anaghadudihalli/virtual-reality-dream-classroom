@@ -16,23 +16,23 @@ public class s4Talk : MonoBehaviour
         animator.GetComponent<Animator>();   
         talkingClip.GetComponent<AudioSource>();
         InvokeRepeating("checkIfNear", 0f, 4f);
-        Debug.Log("In start");
+        // Debug.Log("In start");
     }
 
     void checkIfNear()
     {
-        Debug.Log("In check if near");
-        Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition));
+        // Debug.Log("In check if near");
+        // Debug.Log(Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition));
         isCameraRigClose = false;
         if (Vector3.Distance(humanoid.transform.localPosition, cameraRig.transform.localPosition) <= 1.5) {
-            Debug.Log("Distance is less");
+            // Debug.Log("Distance is less");
             isCameraRigClose = true;
         }
         else {
             repeatAgain = true;
         }
         if (isCameraRigClose && repeatAgain) {
-            Debug.Log("True");
+            // Debug.Log("True");
             StartCoroutine(startTalking());
         }
     }
