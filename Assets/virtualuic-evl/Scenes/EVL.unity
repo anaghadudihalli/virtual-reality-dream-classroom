@@ -7495,7 +7495,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3fb70f1185022469eae84ca302481e53, type: 3}
+  m_audioClip: {fileID: 8300000, guid: f532bc8792c1d4e27a4f8e8f5b56806b, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -7766,7 +7766,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3fb70f1185022469eae84ca302481e53, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c9eaf28e3db90408b9ed98f225e3764f, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -8254,7 +8254,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3fb70f1185022469eae84ca302481e53, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e7af37f53f5e745f693239408f13eb54, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -19839,7 +19839,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 18e263b66f7ef49c8bfbe999f2281a9c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.4814904
+      value: 3.48
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 18e263b66f7ef49c8bfbe999f2281a9c,
         type: 3}
@@ -22200,7 +22200,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0c356714e500b4e04a8ffda4c3163737,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.7414904
+      value: 6.97
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0c356714e500b4e04a8ffda4c3163737,
         type: 3}
@@ -22210,7 +22210,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0c356714e500b4e04a8ffda4c3163737,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.5602996
+      value: 0.58
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0c356714e500b4e04a8ffda4c3163737,
         type: 3}
